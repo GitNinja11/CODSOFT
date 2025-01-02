@@ -88,11 +88,6 @@ Contributions are welcome! If you’d like to enhance a project or add new featu
 
 ---
 
-## 📜 **License**
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
 ## ✨ **Acknowledgment**
 Special thanks to **CodSoft** for providing this opportunity to enhance and showcase programming skills.
 
